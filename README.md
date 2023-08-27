@@ -9,3 +9,6 @@ AtliQ Grands, a prominent player in the Indian hospitality sector, boasts an arr
 
   ## **Dashboard**
   ![Alt text of the image](https://github.com/Krishancoder/Data-Driven-Hotel-Management-Insights-Dashboard-using-Power-BI/blob/main/power%20bi%20dashboard.png)
+
+  ## **FILTER BY CITY - DELHI**
+  ![Alt text of the image](https://github.com/Krishancoder/Data-Driven-Hotel-Management-Insights-Dashboard-using-Power-BI/blob/main/delhi.png)
